@@ -1,0 +1,11 @@
+jupyter
+pandas
+requests
+SQLAlchemy
+pyarrow
+pg8000
+pytest
+pylint
+pyyaml
+Jinja2
+schedule
