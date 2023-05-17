@@ -1,6 +1,0 @@
-api_key_id="PK6X7EJ7JVZ4VF8JHR4I"
-api_secret_key="vNbap9JFbTDp22qtwLWXNoGp3agOQzeHIASrFvYt"
-db_user="postgres"
-db_password="*******"
-db_server_name="localhost"
-db_database_name="postgres"
